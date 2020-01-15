@@ -1,7 +1,7 @@
 # owutil cli
 ## Installation
 
-#### > pip install owutil==0.1.1
+#### > pip install owutil==0.1.5
 
 Before you start using the command, you must go to the right project with the right credentials in your git config.
 
