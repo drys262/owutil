@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "owutil"
-version = "0.1.2"
+version = "0.1.5"
 description = ""
 authors = ["drys262 <koeichavez17@gmail.com>"]
 
