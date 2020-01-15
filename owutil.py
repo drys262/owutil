@@ -33,6 +33,7 @@ def main():
 @click.argument("tag")
 @click.argument("version")
 def merge(tag, version):
+    print("Starting merge")
     tag_type, tag_version_number = tag.split("/")
     validateParams(version, tag)
     os.system("git checkout master")
